@@ -1,6 +1,6 @@
 ### Hey! I'm Alex P.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wharkinterface_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wharkinterface)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wharkinterface?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wharkinterface)
 
 ## I'm a student
  
