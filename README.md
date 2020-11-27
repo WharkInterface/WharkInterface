@@ -1,17 +1,61 @@
 ### Hey! I'm Alex P.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wharkinterface?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-<!--
-**WharkInterface/WharkInterface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/wharkinterface_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wharkinterface)
 
-Here are some ideas to get you started:
+## I'm a student
+ 
+I would like to become a fullstack developer
+  
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My knowledges
+
+- ⚒️ HTML.
+- ⚒️ CSS.
+- ⚒️ PHP.
+- ⚒️ C#.
+- ⚒️ JavaScript.
+- ⚒️ Lua.
+- ⚒️ MySQL.
+- ⚒️ Shell.
+- ⚒️ Python.
+
+### Connect with me:
+
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
+### My favourites programming languages
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WharkInterface&count_private=true&show_icons=true?theme=buefy)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WharkInterface)](https://github.com/anuraghazra/github-readme-stats)
+
+### My projets
+
+<br />
+
+<!--START_SECTION:activity-->
+- ✅ • Actual
+- ⚒️ • WiP
+
+Other:
+- ⚒️ • My portfolio
+
+School :
+- ✅ • [Galerie](https://github.com/WharkInterface/galerie)
+
+<!--END_SECTION:activity-->
+
+
+<br />
+
+<br />
+<br />
+
+---
+
+[discord]: https://discord.gg/MmQW856
