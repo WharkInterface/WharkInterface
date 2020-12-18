@@ -47,6 +47,7 @@ Other:
 
 School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
+- ✅ • [Galerie V2](https://github.com/WharkInterface/galerie_v2)
 
 <!--END_SECTION:activity-->
 
