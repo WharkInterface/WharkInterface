@@ -17,7 +17,7 @@ I would like to become a fullstack developer
 - ⚒️ JavaScript.
 - ⚒️ Lua.
 - ⚒️ MySQL.
-- ⚒️ Shell.
+- ⚒️ Bash.
 - ⚒️ Python.
 
 ### Connect with me:
