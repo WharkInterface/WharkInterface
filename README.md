@@ -19,6 +19,7 @@ I would like to become a fullstack developer
 - ⚒️ MySQL.
 - ⚒️ Bash.
 - ⚒️ Python.
+- ⚒️ Bootstrap.
 
 ### Connect with me:
 
