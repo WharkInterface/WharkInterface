@@ -4,7 +4,7 @@
 
 ## I'm a student
  
-I would like to become a fullstack developer
+I would like to become a fullstack developer.
   
 <br />
 
