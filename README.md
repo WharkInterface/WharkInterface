@@ -50,7 +50,8 @@ School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
 - ✅ • [Galerie V2](https://github.com/WharkInterface/galerie_v2)
 - ✅ • [Develogic](https://github.com/WharkInterface/develogic)
-- ⚒️ • [PlayEscape](https://github.com/WharkInterface/playescape)
+- ✅ • [PlayEscape](https://github.com/WharkInterface/playescape)
+- ⚒️ • [Omerce](https://github.com/WharkInterface/omerce)
 
 <!--END_SECTION:activity-->
 
