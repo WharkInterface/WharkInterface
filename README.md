@@ -45,6 +45,7 @@ I would like to become a fullstack developer
 
 Other:
 - ⚒️ • My portfolio
+- ⚒️ • Sam's Market
 
 School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
