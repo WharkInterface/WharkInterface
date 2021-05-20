@@ -12,10 +12,10 @@ I would like to become a fullstack developer.
 
 - ⚒️ HTML.
 - ⚒️ CSS.
+- ⚒️ SCSS.
 - ⚒️ PHP.
 - ⚒️ C#.
 - ⚒️ JavaScript.
-- ⚒️ Lua.
 - ⚒️ MySQL.
 - ⚒️ Bash.
 - ⚒️ Python.
