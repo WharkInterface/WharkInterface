@@ -50,7 +50,7 @@ Other:
 School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
 - ✅ • [Galerie V2](https://github.com/WharkInterface/galerie_v2)
-- ✅ • [TeachFocus](https://github.com/WharkInterface/teachfocus)
+- ✅ • [TeachFocus](https://github.com/jeremie-arcidiacono/Teachfocus)
 
 <!--END_SECTION:activity-->
 
