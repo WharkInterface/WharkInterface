@@ -51,6 +51,7 @@ School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
 - ✅ • [Galerie V2](https://github.com/WharkInterface/galerie_v2)
 - ✅ • [TeachFocus](https://github.com/jeremie-arcidiacono/Teachfocus)
+- ⚒️ • [CFPT-Tournament](https://github.com/50ME0N3/CFPT-Tournament)
 
 <!--END_SECTION:activity-->
 
