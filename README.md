@@ -41,8 +41,12 @@ I would like to become a fullstack web developer.
 - ✅ • Actual
 - ⚒️ • WiP
 
-Other:
-- ✅ • Sam's Market
+Personal :
+
+- ✅ • [NFT Drop](https://github.com/WharkInterface/nft-drop)
+
+Professional Work :
+- ✅ • Sam's Market (the business has closed)
 
 School :
 - ✅ • [Galerie](https://github.com/WharkInterface/galerie)
