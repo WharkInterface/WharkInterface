@@ -10,17 +10,14 @@ I would like to become a fullstack web developer.
 
 ## My knowledges
 
-- ⚒️ HTML | Advanced
-- ⚒️ CSS | Advanced
-- ⚒️ SCSS | Intermediate
-- ⚒️ PHP | Advanced
-- ⚒️ C# NET Frameworks (Console / Windows Forms) | Advanced
-- ⚒️ JavaScript | Intermediate
-- ⚒️ MySQL | Intermediate
-- ⚒️ Bash | Intermediate
-- ⚒️ Python | Introductory
-- ⚒️ Bootstrap | Intermediate
-- ⚒️ Wordpress | Intermediate
+- ⚒️ HTML
+- ⚒️ CSS
+- ⚒️ PHP 
+- ⚒️ C# NET Frameworks (Console / Windows Forms)
+- ⚒️ JavaScript
+- ⚒️ SQL
+- ⚒️ Bash
+- ⚒️ Wordpress
 
 ### Connect with me:
 
