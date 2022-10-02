@@ -15,6 +15,7 @@ I would like to become a fullstack web developer.
 - ⚒️ PHP 
 - ⚒️ C# NET Frameworks (Console / Windows Forms)
 - ⚒️ JavaScript
+- ⚒️ TypeScript
 - ⚒️ SQL
 - ⚒️ Bash
 - ⚒️ Wordpress
